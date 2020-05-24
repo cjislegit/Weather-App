@@ -1,5 +1,5 @@
 # Weather-App
-Web application that gives you the weather for your area built using HTML and CSS.
+Web application that gives you the weather for your area built using HTML, CSS, Javscript, and Googles Weather API.
 ## Installation
 
 ```
